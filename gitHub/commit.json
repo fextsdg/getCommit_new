@@ -1,0 +1,7 @@
+{
+  "repo_owner": "GNOME",
+  "repo_name": "libxml2",
+  "file_path": "valid.c",
+  "commit_sha": "932cc9896ab41475d4aa429c27d9afd175959d74",
+  "CVE_ID": "CVE-2017-9048"
+}
